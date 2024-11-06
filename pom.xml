@@ -1,0 +1,6 @@
+<dependency> 
+    <groupId>com.example.quiz</groupId> 
+    <artifactId>cli.quiz</artifactId> 
+    <version>5.7.0</version> 
+    <scope>test</scope> 
+</dependency> 
